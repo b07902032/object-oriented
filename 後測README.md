@@ -57,7 +57,7 @@ for i in range(num):
 2. `Transform`：當出現這行字串時，下一行會出現三個中間以空白隔開的整數，代表與之相乘的三維向量。
 3. `Transpose`
 4. `Determinant`
-## Input Format ##
+## Output Format ##
 輸出`N`筆資料，每筆資料佔一行。根據輸入的操作共有四種可能的輸出：
 1. `Multiply`：輸出代表相乘後的矩陣的二維陣列。
 2. `Transform`：輸出代表經由矩陣變換過的三維向量的一維陣列。
