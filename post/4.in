@@ -1,0 +1,106 @@
+6 -8 -6 -1 4 6 -7 -8 1
+72
+Transpose
+Determinant
+Determinant
+Multiply
+4 -7 -8 -5 6 -6 -7 7 -3
+Transpose
+Transform
+8 4 8
+Transform
+-6 2 0
+Transform
+4 -7 4
+Transpose
+Determinant
+Transform
+-6 -8 7
+Transform
+4 8 8
+Transform
+0 -4 -3
+Transpose
+Determinant
+Transpose
+Transform
+-2 -2 -3
+Transpose
+Transform
+-7 -4 -1
+Transpose
+Determinant
+Transpose
+Transform
+-2 5 -2
+Transform
+-7 -5 -2
+Determinant
+Transform
+-7 -5 4
+Transpose
+Multiply
+-3 5 0 3 1 7 6 -6 8
+Determinant
+Multiply
+-3 5 -5 3 0 2 8 1 5
+Transform
+-8 -5 -1
+Multiply
+5 -5 7 -5 0 7 5 -5 2
+Transform
+-4 -7 6
+Transpose
+Transpose
+Transpose
+Transpose
+Transform
+5 0 8
+Determinant
+Determinant
+Transpose
+Transpose
+Multiply
+3 0 6 8 -5 7 6 4 7
+Multiply
+8 -2 -7 -8 3 -3 -8 3 -8
+Multiply
+2 -8 -4 6 3 3 2 -2 2
+Multiply
+3 -2 -2 7 0 -6 -5 8 4
+Determinant
+Transpose
+Multiply
+5 -4 3 -2 7 6 -2 4 7
+Multiply
+-6 3 -5 5 6 0 -5 -1 6
+Determinant
+Transpose
+Transpose
+Determinant
+Multiply
+-2 2 6 -8 5 -8 -6 -1 2
+Transpose
+Transpose
+Transform
+5 5 3
+Transpose
+Determinant
+Determinant
+Multiply
+5 8 -8 5 -1 -5 7 7 -6
+Multiply
+-2 8 0 -2 0 -2 -7 7 -7
+Determinant
+Transform
+-8 1 -3
+Multiply
+7 4 -8 2 8 -8 4 -3 -4
+Transpose
+Transpose
+Transform
+-8 1 -5
+Determinant
+Transform
+-4 -7 6
+Transpose
