@@ -12,16 +12,7 @@
 ## 注意事項
 * 本題使用二維陣列來表示三階方陣，並保證其row和column的長度皆為3。
 假設`mat`為一個二維陣列，`A`為`mat`所代表的矩陣，則：
-$$
- A =
- \left[
- \begin{matrix}
-   mat[0][0] & mat[0][1] & mat[0][2] \\
-   mat[1][0] & mat[1][1] & mat[1][2] \\
-   mat[2][0] & mat[2][1] & mat[2][2]
-  \end{matrix}
-  \right]
-$$
+![formula](https://render.githubusercontent.com/render/math?math=A%3D%5Cleft%5B%5Cbegin%7Bmatrix%7Dmat%5B0%5D%5B0%5D%26mat%5B0%5D%5B1%5D%20%26mat%5B0%5D%5B2%5D%5C%5Cmat%5B1%5D%5B0%5D%26mat%5B1%5D%5B1%5D%26mat%5B1%5D%5B2%5D%5C%5Cmat%5B2%5D%5B0%5D%26mat%5B2%5D%5B1%5D%26mat%5B2%5D%5B2%5D%5Cend%7Bmatrix%7D%5Cright%5D)
 * 本題使用一維陣列來表示三維向量，並保證其長度為3。
 * 本題將使用如下的`main.py`來測試程式：
 ```python=
